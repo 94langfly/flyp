@@ -3,3 +3,6 @@
 FLY P use git 
 - trying to refresh git usable 
 - trying to config and usable on work
+
+- new one here
+- new tho here 
